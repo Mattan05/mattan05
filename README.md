@@ -2,8 +2,6 @@
 
 <h3 align="center">Junior Fullstack Developer | M.Sc. Computer Engineering, Lund University</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mattano5" alt="mattano5" /></a> </p>
-
 <h2>🛠️ Tech Stack</h2>
 <br/>
 
