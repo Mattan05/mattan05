@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<h1>👋</h1>
 <h3 align="center">Junior Fullstack Developer | M.Sc. Computer Engineering, Lund University</h3>
 
 <h2>🛠️ Tech Stack</h2>
