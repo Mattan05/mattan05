@@ -35,23 +35,22 @@
 </p>
 
 <h2>Database & Cloud</h3h2
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,wasm)](https://skillicons.dev)
-
-<h2>☁️ DevOps & Cloud</h2>
-<p>
-  <a href="https://azure.microsoft.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/></a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase" />
+  </a>
 </p>
 
-<h2>🧰 Tools</h2>
-<p>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
+<h2>Tools & DevOps</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,postman,git,bash,linux,docker,vscode,azure" />
+  </a>
 </p>
 
 <h2>🔗 Connect with Me</h2>
-<p>
-  <a href="https://linkedin.com/in/mattis-bertilsson" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <a href="https://linkedin.com/in/mattis-bertilsson" target="_blank"><img> src="https://skillicons.dev/icons?i=linkedin"/></a>
+  </a>
 </p>
