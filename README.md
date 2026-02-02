@@ -34,13 +34,8 @@
   <a href="https://pugjs.org" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" width="40" height="40"/></a>
 </p>
 
-<h2>🗄️ Databases</h3h2
-<p>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/></a>
-</p>
+<h2>Database & Cloud</h3h2
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,wasm)](https://skillicons.dev)
 
 <h2>☁️ DevOps & Cloud</h2>
 <p>
