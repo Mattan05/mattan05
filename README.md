@@ -28,7 +28,7 @@
 <h2>Tools & DevOps</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postman,git,bash,linux,docker,vscode,azure,chartjs,latex" />
+    <img src="https://skillicons.dev/icons?i=postman,git,bash,linux,docker,vscode,azure,chartjs,latex" />
   </a>
 </p>
 
